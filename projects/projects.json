@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Design",
+    "desc": "A creative mobile app design prototype made using Figma, focusing on clean UI and smooth user experience.",
+    "image": "p1",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Web Design",
+    "desc": "An all-in-one resource students. Built using HTML, CSS, and GitHub for real-time data synchronization.",
+    "image": "p2",
+    "category": "mern",
+    "links": {
+      "view": "https://pnc-bakery-a4.netlify.app/",
+      "code": "https://github.com/kimchhik-chhuong/bakery-A4"
+    }
+  },
+  {
+    "name": "Web Scarping Automation",
+    "desc": "A native Chatbot built using Python and Chatbot in telegram, featuring Retrofit and Glide dependencies. The bot provides news updates categorized by topic.",
+    "image": "p3",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/Mengseu-Sork/WEB-SCRAPING-AUTOMATION" 
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A responsive music player web app built using JavaScript, CSS, Bootstrap, and HTML, with features like playlists, playback controls, and a modern UI.",
+    "image": "j1",
+    "category": "mern",
+    "links": {
+      "view": "g-19-music-player-app.vercel.app",
+      "code": "https://github.com/OEUBROCHOM/G-19-Music-Player-App"
+    }
+  },
+  {
+    "name": "POS System",
+    "desc": "A web-based POS system built using PHP, HTML, Bootstrap, CSS, and a database for efficient shop management and sales tracking.",
+    "image": "p4",
+    "category": "lamp",
+    "links": {
+      "view": "https://beauty-store.infinityfreeapp.com",
+      "code": "https://github.com/liikaa7zip/beauty_store_G13"
+    }
+  },
+  {
+    "name": "Web Design",
+    "desc": "An all-in-one resource students. Built using HTML, CSS, and GitHub for real-time data synchronization.",
+    "image": "p2",
+    "category": "mern",
+    "links": {
+      "view": "https://pnc-bakery-a4.netlify.app/",
+      "code": "https://github.com/kimchhik-chhuong/bakery-A4"
+    }
+  }
+]
